@@ -208,7 +208,7 @@
     <string name="config_battery_prediction_authority" translatable="false">com.google.android.apps.turbo.bluetooth.estimated_time_remaining</string>
 
     <!-- Cell broacast receiver package name -->
-    <string name="config_cell_broadcast_receiver_package" translatable="false">com.google.android.cellbroadcastreceiver</string>
+    <!--<string name="config_cell_broadcast_receiver_package" translatable="false">com.google.android.cellbroadcastreceiver</string>-->
 
     <!-- Whether to show Smart Storage toggle -->
     <bool name="config_show_smart_storage_toggle">false</bool>
